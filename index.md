@@ -23,14 +23,14 @@
       <a href="https://social-interactions.herokuapp.com/home">See the project running live</a>
     </p>
 
-    <h3>Web422 - Angular
+    <h2>Web422 - Angular
     <p>This project is an angular application. It uses a template to create a well flowing website.
       This allows you to view all employees in a database and parse through them by name or poistion.
       The databse used was MongoDB but is no longer running live with the website so some functions are missing.
       <a href="https://radiant-scrubland-55371.herokuapp.com/home">See the project running live</a>
     </p>
 
-    <h4>Web322 - Project
+    <h2>Web322 - Project
     <p>This project was created to showcase abilties on handling a database and manpulating it inside a website.
       There are ways on to add new employees with details and departments, also the ability to add photos and see them on the website live.
       <a href="https://secure-sea-97478.herokuapp.com/">See the project running live</a>
