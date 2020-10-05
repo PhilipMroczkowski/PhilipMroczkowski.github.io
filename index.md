@@ -15,7 +15,7 @@
     <h2>Social Interactions </h2>
     <p>Social Interactions was a project  created by four Seneca students. The website was designed with intentions to allows users to create an acccount and be able to view
       groups and events that are similiar to their interests.
-      The website uses angular"</p>
+      The website uses angular</p>
       <p>The website has guards on all the forms to make sure information is entered correctly.
         Most features of the website can not be accessed without creating an account or logging in.
         The website allows you to view tand create groups for specfic hobbies or interests.
